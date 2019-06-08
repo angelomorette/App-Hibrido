@@ -1,0 +1,18 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Garçonete Só de Cenoura",
+  "short_name": "Garçonete Só de Cenoura",
+  "version": "org.sergiolopes.garconapp",
+  "description": "App de uso das garçonetes do\n\t    restaurante Só de Cenoura.",
+  "author": "Sérgio Lopes",
+  "icons": [
+    {
+      "src": "resources/android/icon/drawable-xhdpi-icon.png",
+      "type": "image/png",
+      "sizes": "undefinedxundefined"
+    }
+  ],
+  "orientation": "portrait",
+  "start_url": "index.html"
+}
